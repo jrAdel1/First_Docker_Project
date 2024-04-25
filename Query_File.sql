@@ -1,4 +1,4 @@
-CREATE DATABASE school;
+CREATE DATABASE student;
 CREATE TABLE students (
   ID int NOT NULL,
   Name varchar(300) NOT NULL,
